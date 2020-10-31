@@ -57,5 +57,8 @@
   },
   "ember": {
     "edition": "octane"
+  },
+  "ember-addon":{
+    "demoURL":"https://github.com/makannew/ember-stability-experiment"
   }
 }
