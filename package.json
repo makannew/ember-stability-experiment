@@ -1,5 +1,6 @@
 {
   "name": "ember-stability-experiment",
+  "homepage":"https://github.com/makannew/ember-stability-experiment",
   "version": "0.0.0",
   "private": true,
   "description": "Small description for ember-stability-experiment goes here",
